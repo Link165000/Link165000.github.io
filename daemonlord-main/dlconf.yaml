@@ -1,0 +1,8 @@
+
+server:
+  host: Link
+  port: 8081
+  auth:
+    user: linkthegreat
+    password: ninjatauboss
+    team: ninjago
